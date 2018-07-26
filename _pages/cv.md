@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Computational Social Sciecne, University of Chicago, June 2020((expected)
+* B.S. in Applied Mathematics and Statistics, Indiana Universit Bloomington, May 2018
+* B.A. in Economics and Econometrics, Indiana Universit Bloomington, May 2018
+
 
 Work experience
 ======
