@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Li Liu"
 description              : &description "personal description"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Li Liu"
-  avatar           : "19748509_1814869485509669_66951891599506638_n.jpg	"
+  avatar           : "19748509_1814869485509669_66951891599506638_n.jpg"
   bio              : "Data guy"
   location         : "Chicago, Illinois"
   employer         :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :"https://www.linkedin.com/in/li-liu-b9531990/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
